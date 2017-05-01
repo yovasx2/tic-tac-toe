@@ -49,6 +49,10 @@ ol, ul {
   background-color: lightgray;
 }
 
+.highlighted {
+  background-color: yellow;
+}
+
 .game-info {
   margin-left: 20px;
 }
